@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-14012026-083883";"";
+"REFERENCE";"398800402";"";
+"TraceParts.PartTitle";"Eurostyle Fixed Mount";"";
+"TraceParts.InstanceId";"33-14012026-08388353KN5TMJD61S7063YIYO9XJX4";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"5.08mm Pitch Beau Eurostyle Low Profile, Fixed Block, 35° Wire Entry, Modular, 2 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2026-06-03 09:56
+### Printed by checking_3D_models plugin
+Board file: D:\project seminar summerr\offcial project\Project_Seminar_SS2026\Project_Seminar_SS2026.kicad_pcb
+3D missing models written to:
+D:\project seminar summerr\offcial project\Project_Seminar_SS2026\Project_Seminar_SS2026_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']
