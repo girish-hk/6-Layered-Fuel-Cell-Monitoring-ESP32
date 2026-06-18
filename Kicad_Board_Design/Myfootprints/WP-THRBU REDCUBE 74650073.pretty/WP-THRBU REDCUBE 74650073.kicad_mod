@@ -53,29 +53,7 @@
 			)
 		)
 	)
-	(attr smd)
-	(fp_rect
-		(start -5.15 -5.25)
-		(end 5.2 5.2)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "a6ed2041-6b68-44f2-ab0c-c76394583b48")
-	)
-	(fp_circle
-		(center -4.4 -4.6)
-		(end -4.35 -4.5)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "b69cf118-f431-4cc3-84b3-2a67d67d038c")
-	)
+	(attr through_hole)
 	(fp_rect
 		(start -5.3 -5.4)
 		(end 5.35 5.35)
@@ -97,6 +75,17 @@
 		(fill no)
 		(layer "F.Fab")
 		(uuid "b69cbf5b-8197-4054-9257-8a02ee690137")
+	)
+	(fp_circle
+		(center -4.4 -4.55)
+		(end -4.35 -4.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "19955ca3-e7e8-4b9d-bc5c-5fd0e324f942")
 	)
 	(fp_text user "${REFERENCE}"
 		(at -0.2 -31.15 0)
